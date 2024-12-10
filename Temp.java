@@ -19,6 +19,11 @@ public class Temp{
 		System.out.println("___Welcom_____");
 		System.out.println("___--------------");
   
+		System.out.println("The End");
+		System.out.println("The End");
+		System.out.println("The End");
+		System.out.println("The End");
+		System.out.println("The End");
 	}
 
 }	
